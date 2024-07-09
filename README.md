@@ -1,0 +1,1 @@
+The program can check if the sequence of integers is in small-large order(sorted) or not(unsorted). You can insert integers into the list but cannot exceed over 20 integers. After this, you can remove any integers you want from the list.
